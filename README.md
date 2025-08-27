@@ -1,1 +1,1 @@
-# Clustering_series_assignment
+# Resolution of Exercise: Clustering_sprint
